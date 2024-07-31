@@ -6,7 +6,7 @@
 
 - Taylor series' simplest use is approximating the cosine value without a calculator. The expession above is derived from tailor series whose general formula is:
 
-$$\summation_n=0_infinity = an$$
+$$f(x)=\sum_{n=0}^{\infty} \frac{f^n(a)}{n!} (x-a)^n$$
 
 - For example:
 Even if we use only the first two terms from the above expression then the value of cos(0.1) can be calculated as follows:
@@ -35,3 +35,8 @@ $\frac{a}{b}$ hi
 $$1-\frac{x}{2}$$
 
 $$\left(\int_{-\infty}ˆ{\infty} eˆ{-xˆ2}\right)=\int_{-\infty}ˆ{\infty}\int_{-\infty}ˆ{\infty}eˆ{-(xˆ2+yˆ2)}dx\,dy$$
+
+
+put mathematical expression inside two dollar signs like this $ something $
+if you use double dollars on start and end of the expression there the expression will be centred
+*there be no space after the start dollar sign i have intentionally given a space so that i can illustrate properly
